@@ -1,0 +1,1 @@
+document.querySelector("#SECTION8 > div.ladi-section-background")
