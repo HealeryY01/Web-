@@ -1468,6 +1468,7 @@ BUTTON14 .ladi-button .ladi-button-background {
         height: 24px;
         top: 1146px;
         left: -82px;
+        position: relative;
     } */
 
     #PARAGRAPH7 {
@@ -2313,7 +2314,7 @@ BUTTON14 .ladi-button .ladi-button-background {
 
     #BUTTON18 {
         top: 827px;
-        left: -9090px;
+        left: -90px;
     }
 
     #BUTTON19 {
@@ -2592,7 +2593,7 @@ BUTTON14 .ladi-button .ladi-button-background {
 
     #HEADLINE47 {
         width: 621px;
-        top: 8632px;
+        top: 863px;
         left: 165px;
     }
 
